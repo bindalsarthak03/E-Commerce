@@ -1,4 +1,4 @@
-import data from "../data"
+
 import {useParams} from 'react-router-dom'
 function ProductScreen(){
     const params = useParams();
